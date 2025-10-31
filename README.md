@@ -4,7 +4,7 @@
 
 - 💭 Interests **Data science, biostatistics, machine learning, predictive modelling and healthcare data**
 
-- 📫 How to reach me **jnhodgkinson2010@hotmail.co.uk**
+- 📫 How to reach me **jack.hodgkinson@myyahoo.com**
 
 - ⚡ Fun fact **I am a PADI Advanced Open Water Scuba Diver**
 
