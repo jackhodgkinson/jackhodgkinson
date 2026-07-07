@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jackhodgkinson&label=Profile%20views&color=0e75b6&style=flat" alt="jackhodgkinson" /> </p>
 
-- 💭 Interests **Data science, statistics, machine learning, and predictive modelling**
+- 💭 Interests **Statistical Machine Learning, Biostatistics, Bioinformatics, Deep Learning**
 
 - 📫 How to reach me **jack.hodgkinson@myyahoo.com**
 
